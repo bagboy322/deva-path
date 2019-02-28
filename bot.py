@@ -41,4 +41,4 @@ async def on_message(message):
 
 
 
-client.run('ozzytoth322@gmail.com', 'toth6614')
+client.run('TOKEN')
