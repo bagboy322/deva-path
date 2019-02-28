@@ -1,5 +1,9 @@
 import discord
+from discord.ext import commads
+from discord.ext.commands import Bot
 import asyncio
+import random
+import requests
 import aiohttp
 import traceback
 import datetime
