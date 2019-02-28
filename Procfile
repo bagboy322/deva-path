@@ -1,1 +1,1 @@
-worker: python deva.py
+worker: python bot.py
