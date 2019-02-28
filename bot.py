@@ -1,5 +1,6 @@
 import discord
 import asyncio
+import os
 
 client = discord.Client()
 
@@ -41,4 +42,4 @@ async def on_message(message):
 
 
 
-client.run('TOKEN')
+client.run('ozzytoth322@gmail.com', 'toth6614')
