@@ -2,3 +2,4 @@ discord.py
 asyncio
 Pymoe
 pip
+os
